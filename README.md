@@ -28,9 +28,6 @@ This Power BI dashboard analyzes sales performance using the Superstore dataset.
 - Evaluated regional sales distribution.
 - Measured profitability across sub-categories.
 
-## Dashboard Preview
-![Sales Performance Dashboard](dashboard.png)
-
-## Author
+ ## Author
 **Sandeep Ankamreddy**
 B.Tech (Data Science)
